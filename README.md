@@ -1,5 +1,7 @@
 # Build an ActionCable Chat Service
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/action-cable-chat.svg)](https://www.guardrails.io)
+
 1. New App
 
     ```bash
